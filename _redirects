@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/"
   to = "https://redbarn-engineering.com/hancock"
-  status = 200
-  force = true 
+  status = 301
+  force = false
