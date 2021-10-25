@@ -3,3 +3,5 @@
   to = "https://redbarn-engineering.com/hancock"
   status = 301
   force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
